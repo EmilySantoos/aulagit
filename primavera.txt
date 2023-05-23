@@ -1,1 +1,1 @@
-Primavera.txt: Spring é um framework.
+Primavera.txt: Spring é um framework Java.
