@@ -1,0 +1,1 @@
+portuário.txt: Docker é um gerenciador de containers.
